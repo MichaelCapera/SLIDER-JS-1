@@ -1,0 +1,30 @@
+/*=============================================
+GLOBAL
+=============================================*/
+
+*{
+	margin:0px;
+	padding:0px;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Ubunt', sans-serif;
+}
+
+ul, ol{
+	padding:0px;
+}
+
+a:visited, a:link, a:focus, a:hover, a:active{
+	list-style: none;
+	text-decoration: none;
+}
+
+
+.backColor, .backColor a{
+	background:black;
+	color:white;
+}
+body{
+	background-color: #fa5ad2;
+}
+
